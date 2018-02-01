@@ -13,3 +13,5 @@ MVC,IoC and other application frameworks.
 
 * [MyMVC](http://www.mymvc.net/mymvc.html) - a MVC framework for Adobe AIR and Flex framework.
 * [Somacore Framework](https://github.com/soundstep/somacore_framework) - a lightweight event-based MVC framework for Adobe AIR and Flex framework.
+* [HydraMVC](https://code.google.com/archive/p/hydramvc/) - a completely rewrite of PureMVC,allow developers combine native Flex features with powerful MVC architecture.
+* [JumpShip](https://code.google.com/archive/p/jumpship/) - A MVC ActionScript framework.
