@@ -18,3 +18,10 @@ MVC,IoC and other application frameworks.
 * [CASALib](http://casalib.org/) - CASA Lib is a flexible ActionScript library designed to streamline common chores and act as a solid, reliable foundation for your projects.
 * [Flight Framework](https://code.google.com/archive/p/flight-framework/) - An application framework for Flash and Flex.
 * [Cycle Framework](https://code.google.com/archive/p/flight-framework/) - CycleFramework is a view management and development oriented framework for applications implemented with actionscript3 technology.
+* [Vanilladome Framework](https://code.google.com/archive/p/vanilladomeframework/) - A good Adobe Flex Framework to do a "generic" MVC Architecture.
+* [Fabrication](https://code.google.com/archive/p/fabrication/) - Fabrication is a utility for accelerating Flex and Flash application development with the PureMVC framework.
+* [MVCExpress](http://mvcexpress.org/) - ActionScript 3 MVC framework focused on speed and simplicity.
+* [Fancy MVC](https://github.com/featherJ/fancy-mvc) - A very simplified MVC framework lib written in ActionScript 3
+* [MVC](https://github.com/jsmithorg/mvc) - An Actionscript 3.0 Model-View-Controller framework.
+* [Flex-Slide](https://code.google.com/archive/p/flex-slide/) - An Actionscript 3.0 Model-View-Controller framework.
+* [PureMVC](http://puremvc.org/) - A MVC framework targeted several programming language,including AS3/Flex.
