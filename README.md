@@ -9,7 +9,8 @@
 * [APIs](#apis)
 
 ## Application Frameworks
-###MVC,IoC Frameworks
+
+### MVC,IoC Frameworks
 
 * [MyMVC](http://www.mymvc.net/mymvc.html) - a MVC framework for Adobe AIR and Flex framework.
 * [Somacore Framework](https://github.com/soundstep/somacore_framework) - a lightweight event-based MVC framework for Adobe AIR and Flex framework.
@@ -28,3 +29,4 @@
 ### Animation Framework
 
 * [BezierTweenStarling](https://github.com/Svantro/BezierTweenStarling) - Bezier tween extention for Starling in ActionScript 3.0.
+* [Eaze Tween](https://github.com/mayakwd/as3-eaze-tween) - Eaze Tween: smart, fast, chainable and compact Flash AS3 tweening library.
