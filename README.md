@@ -15,3 +15,6 @@ MVC,IoC and other application frameworks.
 * [Somacore Framework](https://github.com/soundstep/somacore_framework) - a lightweight event-based MVC framework for Adobe AIR and Flex framework.
 * [HydraMVC](https://code.google.com/archive/p/hydramvc/) - a completely rewrite of PureMVC,allow developers combine native Flex features with powerful MVC architecture.
 * [JumpShip](https://code.google.com/archive/p/jumpship/) - A MVC ActionScript framework.
+* [CASALib](http://casalib.org/) - CASA Lib is a flexible ActionScript library designed to streamline common chores and act as a solid, reliable foundation for your projects.
+* [Flight Framework](https://code.google.com/archive/p/flight-framework/) - An application framework for Flash and Flex.
+* [Cycle Framework](https://code.google.com/archive/p/flight-framework/) - CycleFramework is a view management and development oriented framework for applications implemented with actionscript3 technology.
