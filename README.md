@@ -33,6 +33,12 @@ You're welcome to contribute to this list.Just make a pull request to add your r
 * [PureMVC](http://puremvc.org/) - A MVC framework targeted several programming language,including AS3/Flex.
 * [Short](https://code.google.com/archive/p/short/) - A framework for write less and do more with ActionScript 3.0.
 * [Vegas](https://code.google.com/archive/p/vegas/) - A framework for AS2 and AS3.
+* [MVC4AS3](https://code.google.com/archive/p/mvc4as3/) - Simple and powerful MVC framework for Flex and ActionScript3.
+* [Nimbus-AS3](https://code.google.com/archive/p/nimbus-as3/) - A rapid application framework for Adobe Flex.
+* [Modulr](https://code.google.com/archive/p/modulr/) - A modularization framework for Flex/AS3.
+* [LayerGlue](https://code.google.com/archive/p/modulr/) - Full featured framework for AS3.
+* [Guasax](https://code.google.com/archive/p/guasax/) - Flex Programming framework.
+* [Flest](https://code.google.com/archive/p/flest/) - Flest framework is a MVC framework for building enterprise rich internet applications.
 ### Animation Framework
 
 * [BezierTweenStarling](https://github.com/Svantro/BezierTweenStarling) - Bezier tween extention for Starling in ActionScript 3.0.
