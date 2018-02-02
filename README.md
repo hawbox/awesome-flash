@@ -4,6 +4,8 @@
 
 [Adobe Flash](https://www.adobe.com/products/flashruntimes.html) is a multimedia platform that can create animations,RIA applications,as well as web,mobile and desktop applications,with the fantastic ActionScript Scripting language.There are dozens of frameworks and libraries built on top of it,make it developping video games,MVC applications and 3D applications easily.
 
+You're welcome to contribute to this list.Just make a pull request to add your resources.
+
 ## Contents
 
 * [Application Frameworks](#application-frameworks)
