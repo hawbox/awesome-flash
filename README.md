@@ -39,6 +39,19 @@ You're welcome to contribute to this list.Just make a pull request to add your r
 * [LayerGlue](https://code.google.com/archive/p/modulr/) - Full featured framework for AS3.
 * [Guasax](https://code.google.com/archive/p/guasax/) - Flex Programming framework.
 * [Flest](https://code.google.com/archive/p/flest/) - Flest framework is a MVC framework for building enterprise rich internet applications.
+* [Gaia Framework](https://github.com/stevensacks/Gaia-Framework) - Gaia Framework for Adobe Flash.
+* [Apex MVC](https://code.google.com/archive/p/apex-mvc/) - A lightwieght MVC framework for Flex and Flash app development
+* [Flash MVC](https://code.google.com/archive/p/flashmvc2/) - Minimalist AS3 frameworks inspired by PureMVC.It combines model and facade to simplifier development process.
+* [Mate Framework](https://mate.asfusion.com/) - a Tag-based,event-driven Flex framework.
+* [Parsley](http://www.spicefactory.org/parsley/) - an application framework for Flex.
+* [Swiz Framework](https://swizframework.jira.com/wiki) - An application framework to make Flex development simply.
+* [AS-Hive](https://code.google.com/archive/p/as-hive/) - AS-Hive allows developers to rapidly build applications and games that rely on state, event, and load management of external media files.
+* [FoxR](https://code.google.com/archive/p/foxr/) - Flex framework based on PureMVC.
+* [Currents](https://code.google.com/archive/p/currents/) - A lightweight MVC framework for Flex.
+* [CompactMVC](https://code.google.com/archive/p/compactmvc/) - Multicore framework for Flex.
+* [BumpSlide](https://github.com/tkdave/bumpslide_as3/) - Flex framework and useful utilities.
+* [CandyMVC](https://code.google.com/archive/p/candymvc/) - Lightweight AS3/Flex MVC framework.
+* [GEMVC](http://gemvc.riaforge.org/) - Flex MVC framework.
 ### Animation Framework
 
 * [BezierTweenStarling](https://github.com/Svantro/BezierTweenStarling) - Bezier tween extention for Starling in ActionScript 3.0.
