@@ -64,3 +64,6 @@ You're welcome to contribute to this list.Just make a pull request to add your r
 ### Physics Engines
 * [Prince Framework](https://code.google.com/archive/p/princeframework/) - AS3 framework for creating in a quick games based on Box2D.
 * [Jiglibflash](https://code.google.com/archive/p/jiglibflash/) - Flash 3D Game Engine.
+* [FOAM](https://code.google.com/archive/p/foam-as3/) - Two-dimensional right body physics engine.
+* [FBox2D](https://github.com/TapirLiu/fbox2d) - Flash AS3 port of Box2D physics engine.
+* [JelloAS3](https://code.google.com/archive/p/jelloas3/) - AS3 port of Jello,an XNA physics engine.
